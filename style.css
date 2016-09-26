@@ -1,6 +1,8 @@
 #carrie {
     font-family: baskerville;
     color: #FF7769;
+    font-size: 50px;
+    text-align: center;
 }
 body {
     background-color: #FFF0CC;
