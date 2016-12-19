@@ -1,51 +1,26 @@
-#carrie {
-    font-family: baskerville;
-    color: #FF7769;
-    font-size: 50px;
-    text-align: center;
-}
-body {
-    background-color: #FFF0CC;
-}
-#tommy {
-    font-family: baskerville;
-    color: #FF7769
-}
-#mary {
-    font-family: baskerville;
-    color: #000000
-}
-#swell {
-    font-family: baskerville;
-}
-#jane {
-    font-family: baskerville;
-}
-#shane {
-    font-family: baskerville;
-}
-img {
-    height: 200px;
-    width: 300px:;
-    border: 5px solid #FFFFFF;
+.social {
+  float: right
 }
 
-@media(max-width:768px){
-  img{
-    height: 170px;
-    width: 270px;
-    border: 3px solid: #FFFFFF;
-  }
-  #carrie{
-    font-size: 45px;
-    font-weight: bolder;
-    color: #A10039;
-  }
-  #tommy{
-    font-size: 40px;
-    font-weight:
-    color: #991E40;
-  }
-  .sam {
-    font-size: 15px; 
-  }
+#cap1 {
+  color: gray;
+}
+#cap1 {
+  font-size: 14px;
+}
+ h1 {
+   font-family: Verdance, Geneva, sans-serif
+ }
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+ #bylines {
+   font-size: 16px;
+   color: gray;
+ }
